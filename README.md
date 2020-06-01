@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2805847&assignment_repo_type=AssignmentRepo)
-# Завдання (на "п'ять")
+## Завдання (на "п'ять")
 * Завантажте jar-файл з усіма потрібними классами (Bank, Customer, Account та ін.) з наших попередніх лаб - MyBank
 * Створіть в Netbeans новий проект з назвою MatisseDemo (або використайте проект, створений в ході виконання попередньої роботи). УВАГА!Чекбокс Create Main Class треба очистити (не створювати виконуваний клас)!
 * Додайте до проекту завантажену вами бібліотеку - правою кнопкой на проекті, обрати Properties, потім у дереві категорій обрати Libraries (другий пункт зверху), натиснути у правій частині вікна кнопку Add JAR/Folder, обрати jar-файл, завантажений у п. 1, натиснути Ok
